@@ -10,9 +10,6 @@
     "url" : "http://github.com/RGBboy/mongoose-validate"
   },
   "main": "index",
-  "engines": {
-    "node": "0.8.x"
-  },
   "dependencies": {
     "validator": "0.4.x"
   },
